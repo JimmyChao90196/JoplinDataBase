@@ -27,10 +27,10 @@ OneDrive and WebDAV are also supported as synchronisation services. Please see [
 Joplin supports end-to-end encryption (E2EE) on all the applications. E2EE is a system where only the owner of the data can read it. It prevents potential eavesdroppers - including telecom providers, internet providers, and even the developers of Joplin from being able to access the data. Please see the [End-To-End Encryption Tutorial](https://joplinapp.org/help/apps/sync/e2ee) for more information about this feature and how to enable it.
 
 
-id: a0f2ec89b7e245658ce9f5b0b15bc93e
-parent_id: b8eb0f6cc405430fb0ddeeaac6bf7983
-created_time: 2025-07-27T01:55:21.689Z
-updated_time: 2025-07-27T05:14:29.436Z
+id: ac3babf671d94ccfa3657ed42dc3a7ea
+parent_id: 29ac1ce0395d4bd187d247e75d8d0dbe
+created_time: 2025-07-27T04:40:32.087Z
+updated_time: 2025-07-27T04:40:32.087Z
 is_conflict: 0
 latitude: 0.00000000
 longitude: 0.00000000
@@ -43,9 +43,9 @@ todo_completed: 0
 source: joplin-desktop
 source_application: net.cozic.joplin-desktop
 application_data: 
-order: 1753581321689
-user_created_time: 2025-07-27T01:55:21.689Z
-user_updated_time: 2025-07-27T01:55:21.689Z
+order: 1753591232087
+user_created_time: 2025-07-27T04:40:32.087Z
+user_updated_time: 2025-07-27T04:40:32.087Z
 encryption_cipher_text: 
 encryption_applied: 0
 markup_language: 1
@@ -54,5 +54,5 @@ share_id:
 conflict_original_id: 
 master_key_id: 
 user_data: 
-deleted_time: 1753593269436
+deleted_time: 0
 type_: 1

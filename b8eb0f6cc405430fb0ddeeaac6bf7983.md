@@ -2,9 +2,9 @@ Welcome!
 
 id: b8eb0f6cc405430fb0ddeeaac6bf7983
 created_time: 2025-07-27T01:55:21.618Z
-updated_time: 2025-07-27T01:55:21.618Z
+updated_time: 2025-07-27T05:14:29.441Z
 user_created_time: 2025-07-27T01:55:21.618Z
-user_updated_time: 2025-07-27T01:55:21.618Z
+user_updated_time: 2025-07-27T05:14:29.441Z
 encryption_cipher_text: 
 encryption_applied: 0
 parent_id: 
@@ -13,5 +13,5 @@ share_id:
 master_key_id: 
 icon: 
 user_data: 
-deleted_time: 0
+deleted_time: 1753593269441
 type_: 2
